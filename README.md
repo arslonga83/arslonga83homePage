@@ -1,1 +1,3 @@
 # arslonga83homePage
+
+I started building a simple homepage that I can use to show off some of the projects I've built. I used webpack for more practice and am rendering all content through Javascript. The display cards use a class constructor so it will be easy to add more in the future. I used bootsrap for the navbar just to try using a cdn like that. Eventually this can be cleaned up and linked to github and social media sites, but it's a good start and was fun to put together!

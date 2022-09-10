@@ -1,5 +1,4 @@
 import {prepProjectPage, printCards, printHome, printAbout} from "./projects.js";
-import './style.css';
 
 const projClick = document.getElementById('projects');
 projClick.addEventListener('click', () => {
