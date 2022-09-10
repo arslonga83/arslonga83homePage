@@ -13,63 +13,63 @@ const cards = [];
 cards[0] = new card(
   'Restaurant Page',
   'https://arslonga83.github.io/restaurant_page/',
-  './media/restaurant-page-screenshot.png', 
+  '../dist/media/restaurant-page-screenshot.png',
   'screenshot of a restaurant page',
   'A simple restaurant page using Javascript modules'
 );
 cards[1] = new card(
   'Library App',
   'https://arslonga83.github.io/library_app/',
-  './media/library-app-screenshot.png', 
+  '../dist/media/library-app-screenshot.png', 
   'screenshot of a library page',
   'A library app to keep track of books and mark them read'
 );
 cards[2] = new card(
   'Sign-Up Page',
   'https://arslonga83.github.io/sign-up-form/',
-  './media/sign-up-page-screenshot.png', 
+  '../dist/media/sign-up-page-screenshot.png', 
   'screenshot of a signup page',
   'A sign up form for a fake business'
 );
 cards[3] = new card(
   'To-Do List',
   'https://arslonga83.github.io/todo-app/',
-  './media/to-do-list-screenshot.png', 
+  '../dist/media/to-do-list-screenshot.png', 
   'screenshot of a todo app',
   'A to-do list app organized with separate projects and utilizing localStorage'
 );
 cards[4] = new card(
   'Rock Paper Scissors',
   'https://arslonga83.github.io/RockPaperScissors/',
-  './media/rock-paper-scissors-screenshot.png', 
+  '../dist/media/rock-paper-scissors-screenshot.png', 
   'screenshot of rock paper scissors app',
   'A game of rock, paper, scissors (first to 5 wins) with random moves from the computer'
 );
 cards[5] = new card(
   'Calculator',
   'https://arslonga83.github.io/Calculator/',
-  './media/calculator-app-screenshot.png', 
+  '../dist/media/calculator-app-screenshot.png', 
   'screenshot of calculator app',
   'A simple calculator app using the mouse or keyboard'
 );
 cards[6] = new card(
   'Etch-a-Sketch',
   'https://arslonga83.github.io/Etch-a-Sketch/',
-  './media/etch-a-sketch-screenshot.png', 
+  '../dist/media/etch-a-sketch-screenshot.png', 
   'screenshot of etch-a-sketch app',
   'A fun etch-a-sketch app in color or black and white'
 );
 cards[7] = new card(
   'Tic-Tac-Toe',
   'https://arslonga83.github.io/tic_tac_toe/',
-  './media/tic-tac-toe-screenshot.png', 
+  '../dist/media/tic-tac-toe-screenshot.png', 
   'screenshot of tic-tac-toe app',
   'Play tic-tac-toe against a friend or the not-so-smart computer'
 );
 cards[8] = new card(
   'Admin Dashboard',
   'https://arslonga83.github.io/admin_dashboard/',
-  './media/admin-dashboard-screenshot.png', 
+  '../dist/media/admin-dashboard-screenshot.png', 
   'screenshot of admin dashboard page',
   'A simple layout for an admin dashboard using CSS grid and flexbox'
 );
