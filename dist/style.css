@@ -1,0 +1,71 @@
+body {
+  background: url(./media/markus-spiske-Skf7HxARcoc-unsplash.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: rgb(15, 11, 11);
+  padding: 24px;
+  font-weight: bolder;
+  font-size: 4rem;
+  margin-top: 4em;
+  background-color: grey;
+  opacity: .9;
+  border-radius: 1.5em;
+  border: 2px solid black;
+  min-width: 650px;
+  text-align: center;
+}
+
+
+
+.projecth1 {
+  margin-top: 1em;
+}
+
+.card {
+  background-color: grey;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 400px;
+  border: 2px solid black;
+}
+
+img {
+  height: 100px;
+  width: 200px;
+  margin: 16px;
+  border: 5px solid black;
+}
+
+p {
+  max-width: 300px;
+  text-align: center;
+}
+
+#gallery {
+  display: flex;
+  padding: 48px;
+  justify-content: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.aboutText {
+  color: rbg(15, 11, 11);
+  background-color: grey;
+  border: 2px solid black;
+  padding: 24px;
+}
